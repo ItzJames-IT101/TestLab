@@ -1,1 +1,2 @@
-Hello World!
+Name: James Monroig
+Major: Information Technology
